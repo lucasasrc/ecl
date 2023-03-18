@@ -1,4 +1,4 @@
 {
-    "ecl.launchConfiguration": "localhost",
+    "ecl.launchConfiguration": "clusterHPCC",
     "ecl.targetCluster": {}
 }

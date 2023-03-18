@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "localhost",
+            "name": "clusterHPCC",
             "type": "ecl",
             "request": "launch",
             "protocol": "http",
-            "serverAddress": "localhost",
+            "serverAddress": "192.168.56.101",
             "port": 8010,
             "path": "",
-            "targetCluster": "hthor",
+            "targetCluster": "thor",
             "rejectUnauthorized": true,
             "resultLimit": 100,
             "timeoutSecs": 60,
-            "user": "vscode_user",
+            "user": "lucas",
             "password": ""
         }
     ]
